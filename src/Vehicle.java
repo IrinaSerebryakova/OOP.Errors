@@ -8,9 +8,6 @@ public class Vehicle{
         this.wheelsCount = wheelsCount;
     }
 
-    public Vehicle() {
-    }
-
     public String getModelName() {
         return modelName;
     }

@@ -1,4 +1,5 @@
 public class ServiceStation {
+
     public void check(Vehicle vehicle) {
         if (vehicle != null) {
             if (vehicle instanceof Bicycle) {
